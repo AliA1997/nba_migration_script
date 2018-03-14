@@ -1,0 +1,127 @@
+[
+    {
+        "rank": 1,
+        "name": "Lebron James",
+        "team": "Cleveland Cavaliers"
+    },
+    {
+        "rank": 2,
+        "name": "James Harden", 
+        "team": "Houston Rockets"
+    },
+    {
+        "rank": 3,
+        "name": "Stephen Curry",
+        "team": "Golden State Warriors"
+    },
+    {
+        "rank": 4, 
+        "name": "Kevin Durant",
+        "team": "Golden State Warriors"
+    },
+    {
+        "rank": 5,
+        "name": "Russell Westbrook",
+        "team": "Oklahoma City Thunder"
+    },
+    {
+        "rank": 6,
+        "name": "Anthony Davis",
+        "team": "New Orleans Pelicans"
+    },
+    {
+        "rank": 7,
+        "name": "Demarcus Cousins",
+        "team": "New Orleans Pelicans"
+    },
+    {
+        "rank": 8,
+        "name": "Giannis Antekontounmpo",
+        "team": "Milwaukee Bucks"
+    },
+    {
+        "rank": 9,
+        "name": "Damien Lillard",
+        "team": "Portland Trail Blazers"
+    },
+    {
+        "rank": 10,
+        "name": "Chris Paul",
+        "team": "Houston Rockets"
+    },
+    {
+        "rank": 11,
+        "name": "Kyrie Irving", 
+        "team": "Boston Celtics"
+    },
+    {
+        "rank": 12,
+        "name": "Joel Embiid",
+        "team": "Philadelphia 76ers"
+    },
+    {
+        "rank": 13, 
+        "name": "Kristaps Porzingas",
+        "team": "New York Knicks"
+    },
+    {
+        "rank": 14, 
+        "name": "Lamarcus Aldridge", 
+        "team": "San Antonio Spurs"
+    },
+    {
+        "rank": 15, 
+        "name": "Jimmy Butler", 
+        "team": "Minnesota Timberwolves"
+    },
+    {
+        "rank": 16, 
+        "name": "Klay Thompson",
+        "team": "Golden State Warriors"
+    },
+    {
+        "rank": 17, 
+        "name": "Karl Anthony Towns",
+        "team": "Minnesota Timberwolves"
+    },
+    {
+        "rank": 18, 
+        "name": "Paul George",
+        "team": "Oklahoma City Thunder"
+    },
+    {
+        "rank": 19,
+        "name": "Draymond Green", 
+        "team": "Golden State Warriors"
+    },
+    {
+        "rank": 20,
+        "name": "Victor Oladipo", 
+        "team": "indiana Pacers"
+    },
+    {
+        "rank": 21, 
+        "name": "Demar Derozan",
+        "team": "Toronto Raptors"
+    },
+    {
+        "rank": 22, 
+        "name": "Kevin Love", 
+        "team": "Cleveland Cavaliers"
+    },
+    {
+        "rank": 23, 
+        "name": "Bradley Beal", 
+        "team": "Washington Wizards"
+    },
+    {
+        "rank": 24, 
+        "name": "John Wall", 
+        "team": "Washington Wizards"
+    },
+    {
+        "rank": 25, 
+        "name": "Ben Simmons",
+        "team": "Philadelphia 76ers"
+    }
+]
